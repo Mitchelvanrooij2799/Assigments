@@ -10,3 +10,5 @@ this repository contains my assignments
 [assignment 6](https://github.com/Mitchelvanrooij2799/Assignments/blob/master/Graded_assignment1.ipynb)
 
 [assignment 7](https://github.com/Mitchelvanrooij2799/Assignments/blob/master/Graded_assignment_2%20(1).ipynb)
+
+[Exam_student](https://github.com/Mitchelvanrooij2799/Assignments/blob/master/Exam_student.ipynb)
